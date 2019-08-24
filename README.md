@@ -28,3 +28,7 @@ To execute a command:
 
 In this example, typing the code 1021 should open Google Chrome 
 and 1022 should open Google Chrome incognito.
+
+This project is meant to provide a controller for computer, but can be extended
+to other IoT devices and their respective function. It can also become a wireless
+controller using the Arduino WiFi shield.
