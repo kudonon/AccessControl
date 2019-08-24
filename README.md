@@ -1,8 +1,9 @@
 This Project is an attempt to create a faster an efficient input mechanism
 to make repetitive functions/commands easier to execute on any computer
-that is able to run python and has a serial port
+that is able to run python and has a serial port.
+Built with no direct use of low level lagnuages.
 
-First, we need to build an basic keyboard using an Arduino as shown in 
+First, you need to build an basic keyboard using an Arduino as shown in 
 the 'Build/' folder. Then, upload the 'button.ino' to the arduino and 
 activate it
 
