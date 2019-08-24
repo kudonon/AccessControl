@@ -24,3 +24,6 @@ To execute a command:
 5. Tap the 2nd leftmost button for backspace
 6. Tap the LeftMost Button to execute a command
 7. Wait for the command to execute.
+
+In this example, typing the code 1021 should open Google Chrome 
+and 1022 should open Google Chrome incognito.
